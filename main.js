@@ -51,3 +51,5 @@ else if(numero>=10 && numero<=99){console.log("posee dos digitos");}
 else{console.log("el numero ingresado no cumple con la condicion solicitada! prueba nuevamente!");} 
 
 
+
+
